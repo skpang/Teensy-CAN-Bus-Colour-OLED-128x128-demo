@@ -5,5 +5,5 @@ V1.0 March 2017
 For use with Teensy CAN-Bus with Colour OLED 128x128 and SD card holder:
 http://skpang.co.uk/catalog/teensy-canbus-with-colour-oled-128x128-and-sd-card-holder-p-1523.html
 
-Also requres new FlexCAN libarary
-https://github.com/collin80/FlexCAN_Library
+Also requres new Teensy SSD1351 libarary
+https://github.com/kirberich/teensy_ssd1351
